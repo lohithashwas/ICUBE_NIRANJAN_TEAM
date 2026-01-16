@@ -1,0 +1,77 @@
+{
+  "alerts": [
+    {
+      "type": "disaster",
+      "source": "GDACS",
+      "event_type": "EQ",
+      "name": "Earthquake in Myanmar",
+      "description": "Earthquake in Myanmar",
+      "severity": "Green",
+      "lat": 22.7786,
+      "lon": 95.9225,
+      "time": "2026-01-01T13:18:59",
+      "metadata": {
+        "country": "Myanmar",
+        "episode_id": 1680134
+      }
+    }
+  ],
+  "key_metrics": {
+    "Delhi": {
+      "lat": 28.61,
+      "lon": 77.2,
+      "temp_c": 13.8,
+      "humidity": 70,
+      "precip_mm": 0.0,
+      "wind_kph": 3.1,
+      "soil_moisture": 0.383,
+      "timestamp": "2026-01-03T13:45",
+      "risk_level": "Low"
+    },
+    "Mumbai": {
+      "lat": 19.07,
+      "lon": 72.87,
+      "temp_c": 25.4,
+      "humidity": 75,
+      "precip_mm": 0.0,
+      "wind_kph": 18.2,
+      "soil_moisture": 0.035,
+      "timestamp": "2026-01-03T13:45",
+      "risk_level": "Low"
+    },
+    "Chennai": {
+      "lat": 13.08,
+      "lon": 80.27,
+      "temp_c": 24.8,
+      "humidity": 74,
+      "precip_mm": 0.0,
+      "wind_kph": 7.2,
+      "soil_moisture": 0.205,
+      "timestamp": "2026-01-03T13:45",
+      "risk_level": "Low"
+    },
+    "Kolkata": {
+      "lat": 22.57,
+      "lon": 88.36,
+      "temp_c": 17.3,
+      "humidity": 83,
+      "precip_mm": 0.0,
+      "wind_kph": 5.9,
+      "soil_moisture": 0.316,
+      "timestamp": "2026-01-03T13:45",
+      "risk_level": "Low"
+    },
+    "Guwahati": {
+      "lat": 26.11,
+      "lon": 91.7,
+      "temp_c": 17.9,
+      "humidity": 90,
+      "precip_mm": 0.0,
+      "wind_kph": 5.5,
+      "soil_moisture": 0.376,
+      "timestamp": "2026-01-03T13:45",
+      "risk_level": "Low"
+    }
+  },
+  "last_updated": 1767447704.9775863
+}

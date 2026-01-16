@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+selenium
+pdf2image
+schedule
+python-multipart
+# For geospatial if needed later, but starting light
+APScheduler
